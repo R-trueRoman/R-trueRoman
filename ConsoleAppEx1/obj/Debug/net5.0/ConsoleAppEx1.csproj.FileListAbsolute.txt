@@ -1,0 +1,16 @@
+C:\Users\roman\source\repos\ConsoleAppEx1\bin\Debug\net5.0\ConsoleAppEx1.exe
+C:\Users\roman\source\repos\ConsoleAppEx1\bin\Debug\net5.0\ConsoleAppEx1.deps.json
+C:\Users\roman\source\repos\ConsoleAppEx1\bin\Debug\net5.0\ConsoleAppEx1.runtimeconfig.json
+C:\Users\roman\source\repos\ConsoleAppEx1\bin\Debug\net5.0\ConsoleAppEx1.runtimeconfig.dev.json
+C:\Users\roman\source\repos\ConsoleAppEx1\bin\Debug\net5.0\ConsoleAppEx1.dll
+C:\Users\roman\source\repos\ConsoleAppEx1\bin\Debug\net5.0\ref\ConsoleAppEx1.dll
+C:\Users\roman\source\repos\ConsoleAppEx1\bin\Debug\net5.0\ConsoleAppEx1.pdb
+C:\Users\roman\source\repos\ConsoleAppEx1\obj\Debug\net5.0\ConsoleAppEx1.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\ConsoleAppEx1\obj\Debug\net5.0\ConsoleAppEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\ConsoleAppEx1\obj\Debug\net5.0\ConsoleAppEx1.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\ConsoleAppEx1\obj\Debug\net5.0\ConsoleAppEx1.AssemblyInfo.cs
+C:\Users\roman\source\repos\ConsoleAppEx1\obj\Debug\net5.0\ConsoleAppEx1.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\ConsoleAppEx1\obj\Debug\net5.0\ConsoleAppEx1.dll
+C:\Users\roman\source\repos\ConsoleAppEx1\obj\Debug\net5.0\ref\ConsoleAppEx1.dll
+C:\Users\roman\source\repos\ConsoleAppEx1\obj\Debug\net5.0\ConsoleAppEx1.pdb
+C:\Users\roman\source\repos\ConsoleAppEx1\obj\Debug\net5.0\ConsoleAppEx1.genruntimeconfig.cache
